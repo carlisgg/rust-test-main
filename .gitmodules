@@ -1,0 +1,3 @@
+[submodule "rust-test-module"]
+	path = rust-test-module
+	url = ../rust-test-module.git
